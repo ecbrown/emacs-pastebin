@@ -26,7 +26,7 @@
 ;; Author: Daniel Hilst <danielhilst at gmail.com>
 ;; Maintainer: Daniel Hilst <danielhilst at gmail.com>
 ;; Created: 2013-01-01
-;; Version: 0.0.1
+;; Version: 1.0
 
 ;;
 ;; USAGE:
