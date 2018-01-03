@@ -2,6 +2,11 @@
 
 ;; Copyright (C) 2013 by Daniel Hilst <danielhilst at gmail.com>
 
+;; Author: Daniel Hilst <danielhilst at gmail.com>
+;; Maintainer: Daniel Hilst <danielhilst at gmail.com>
+;; Created: 2013-01-01
+;; Version: 1.0
+
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation; either version 2, or (at your option)
@@ -22,11 +27,6 @@
 ;; Copyright (C) 2008 by Nic Ferrier <nic@ferrier.me.uk>
 ;; Copyright (C) 2010 by Ivan Korotkov <twee@tweedle-dee.org>
 ;; Copyright (C) 2012 by Filonenko Michael <filonenko.mikhail@gmail.com>
-
-;; Author: Daniel Hilst <danielhilst at gmail.com>
-;; Maintainer: Daniel Hilst <danielhilst at gmail.com>
-;; Created: 2013-01-01
-;; Version: 1.0
 
 ;;
 ;; USAGE:
