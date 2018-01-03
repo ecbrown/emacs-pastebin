@@ -23,6 +23,11 @@
 ;;; Copyright (C) 2010 by Ivan Korotkov <twee@tweedle-dee.org>
 ;;; Copyright (C) 2012 by Filonenko Michael <filonenko.mikhail@gmail.com>
 
+;; Author: Daniel Hilst <danielhilst at gmail.com>
+;; Maintainer: Daniel Hilst <danielhilst at gmail.com>
+;; Created: 2013-01-01
+;; Version: 0.0.1
+
 ;;;
 ;;; USAGE:
 ;;;
