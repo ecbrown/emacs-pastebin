@@ -1,4 +1,7 @@
-;; Version: 1.0.0
+;;; neopastebin.el --- pastebin.com interface to emacs
+
+;; Author: Daniel Hilst <danielhilst@gmail.com>
+;; Version: 1
 
 (require 'eieio)
 (require 'wid-edit)
