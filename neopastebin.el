@@ -2,8 +2,7 @@
 
 ;; Copyright (C) 2013 by Daniel Hilst <danielhilst at gmail.com>
 
-;; Author: Daniel Hilst <danielhilst at gmail.com>
-;; Maintainer: Daniel Hilst <danielhilst at gmail.com>
+;; Author: Daniel Hilst <danielhilst@gmail.com>
 ;; Created: 2013-01-01
 ;; Version: 1.0
 
